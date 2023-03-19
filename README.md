@@ -13,3 +13,17 @@
 * SVR
 * XGBoost
 * YSA
+
+### Classification models
+
+* CART
+* CatBoost
+* GBM
+* KNN
+* LightGBM
+* LojistikRegresyon
+* NaiveBayes
+* RF
+* SVC_RBF_SVC
+* XGBoost
+* YSA
