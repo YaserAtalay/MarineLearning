@@ -27,3 +27,9 @@
 * SVC_RBF_SVC
 * XGBoost
 * YSA
+
+### unsupervised learning models
+
+* K-Means
+* PCA
+* Hierarchical clustering
