@@ -28,7 +28,7 @@
 * XGBoost
 * YSA
 
-### unsupervised learning models
+### Unsupervised learning models
 
 * K-Means
 * PCA
