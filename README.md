@@ -33,3 +33,13 @@
 * K-Means
 * PCA
 * Hierarchical clustering
+
+### Linear Regression And Its Cousins
+
+* Simple Linear Regression
+* Multiple Linear Regression
+* Elastic Mesh Regression
+* Lasso Regression
+* Ridge Regression
+* PCR
+* PLS
